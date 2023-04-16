@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": "panka",
+    "password": "testpswd",
     "database": "blog-project",
-    "host": "3.108.59.54",
+    "host": "1.1.1.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "panka",
+    "password": "testpswd",
     "database": "blog-project",
-    "host": "3.108.59.54",
+    "host": "1.1.1.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "pankajaws",
+    "password": "testpswd",
     "database": "blog-project",
-    "host": "3.108.59.54",
+    "host": "1.1.1.1",
     "dialect": "mysql"
   }
 }
